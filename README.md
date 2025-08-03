@@ -4,7 +4,7 @@ This project predicts the likelihood of heart disease using machine learning.
 
 ## Project Structure
 
-- `data/`: Contains the dataset
+- `data/`: Contains the cleaned dataset
 - `notebooks/`: Jupyter notebooks for each step of the pipeline
 - `models/`: Saved trained model with encoder
 - `ui/`: Streamlit web application
@@ -22,5 +22,6 @@ This project predicts the likelihood of heart disease using machine learning.
 2. To run the web app: `streamlit run ui/app.py`
 
 ## Dataset
+
 
 The Heart Disease UCI dataset from: https://archive.ics.uci.edu/dataset/45/heart+disease
